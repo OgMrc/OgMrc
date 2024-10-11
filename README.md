@@ -12,10 +12,10 @@
 
 ### GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center;">
+<div align="start" style="display: flex; justify-content: start;">
   <a href="https://github.com/Ogmrc">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Ogmrc&theme=dracula&show_icons=true&hide_border=false&count_private=true"/>
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ogmrc&theme=dracula&show_icons=true&hide_border=false&layout=compact"/>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Ogmrc&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ogmrc&theme=dracula&show_icons=true&hide_border=true&layout=compact"/>
   </a>
 </div>
     
