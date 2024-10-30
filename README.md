@@ -3,9 +3,9 @@
 ### Tecnologias e ferramentas:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Cris-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cris-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Cris-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">     
+  <img align="center" alt="Cris-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <img align="center" alt="Cris-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cris-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Cris-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div><br>
@@ -14,8 +14,8 @@
 
 <div align="start" style="display: flex; justify-content: start;">
   <a href="https://github.com/Ogmrc">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Ogmrc&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ogmrc&theme=dracula&show_icons=true&hide_border=true&layout=compact"/>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=OgMrc&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OgMrc&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
   </a>
 </div>
     
